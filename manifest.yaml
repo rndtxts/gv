@@ -1,0 +1,251 @@
+# C
+Caesar III:
+  installDir:
+    "(93)Caesar 3/Files": {}
+  files:
+    "<base>/*.sav":
+      tags:
+        - save
+
+Crusaders of Might and Magic:
+  installDir:
+    "(42)Crusaders of Might and Magic/Files": {}
+  files:
+    "<base>/Gamers/*.sav":
+      tags:
+        - save
+    "<base>/Gamers/latest.cfg":
+      tags:
+        - config
+
+# D
+Deus Ex:
+  installDir:
+    "(40)Deus Ex/Files": {}
+  files:
+    "<base>/Save":
+      tags:
+        - save
+    "<base>/System/*.ini":
+      tags:
+        - config
+
+Diablo:
+  installDir:
+    "(98)Diablo/Files": {}
+  files:
+    "<base>/Data":
+      tags:
+        - save
+  registry:
+    HKEY_CURRENT_USER/SOFTWARE/Blizzard Entertainment/Diablo:
+      tags:
+        - config
+
+"Duke Nukem 3D: Megaton Edition":
+  installDir:
+    "(43)Duke Nukem 3D/Files": {}
+  files:
+    "<base>/eduke32.cfg":
+      tags:
+        - config
+    "<base>/save*.esv":
+      tags:
+        - save
+
+Dungeon Keeper 2:
+  installDir:
+    "(66)Dungeon Keeper 2/Files": {}
+  files:
+    "<base>/Data/Save":
+      tags:
+        - save
+    "<base>/Data/Settings":
+      tags:
+        - config
+  registry:
+    HKEY_CURRENT_USER/SOFTWARE/Bullfrog Productions Ltd/Dungeon Keeper II/Configuration/Player:
+      tags:
+        - save
+
+# H
+"Heroes of Might and Magic: A Strategic Quest":
+  installDir:
+    "(68)Heroes of Might and Magic - A Strategic Quest/Files": {}
+  files:
+    "<base>/GAMES":
+      tags:
+        - save
+    "<base>/HEROES.CFG":
+      tags:
+        - config
+
+Heroes of Might and Magic II:
+  installDir:
+    "(67)Heroes of Might and Magic II - Gold/Files": {}
+  files:
+    "<base>/GAMES":
+      tags:
+        - save
+
+Heroes of Might and Magic III:
+  installDir:
+    "(70)Heroes of Might and Magic III - Complete/Files": {}
+  files:
+    "<base>/Games":
+      tags:
+        - save
+  registry:
+    HKEY_LOCAL_MACHINE/Software/WOW6432Node/New World Computing/Heroes of Might and Magic® III/1.0:
+      tags:
+        - config
+
+Heroes of Might and Magic IV:
+  installDir:
+    "(69)Heroes of Might and Magic IV/Files": {}
+  files:
+    "<base>/games":
+      tags:
+        - save
+  registry:
+    HKEY_CURRENT_USER/SOFTWARE/New World Computing/Heroes of Might and Magic IV:
+      tags:
+        - config
+    HKEY_LOCAL_MACHINE/WOW6432Node/New World Computing/Heroes of Might and Magic IV/1.0:
+      tags:
+        - config
+
+"Heroes of Might and Magic V: Tribes of the East":
+  installDir:
+    "(85)Heroes of Might and Magic V - Tribes of the East/Files": {}
+  files:
+    "<winDocuments>/My Games/Heroes of Might and Magic V - Tribes of the East/Profiles/<storeUserId>":
+      tags:
+        - config
+    "<winDocuments>/My Games/Heroes of Might and Magic V - Tribes of the East/Profiles/<storeUserId>/Saves":
+      tags:
+        - save
+
+# K
+Knights of Honor:
+  files:
+    "<winAppData>/Black Sea Studios/Knights of Honor":
+      tags:
+        - config
+    "<winAppData>/Black Sea Studios/Knights of Honor/save":
+      tags:
+        - save
+
+Knights of Honor II – Sovereign:
+  alias: "Knights of Honor II: Sovereign"
+"Knights of Honor II: Sovereign":
+  files:
+    "<home>/AppData/LocalLow/BlackSeaGames/Sovereign":
+      tags:
+        - config
+    "<home>/AppData/LocalLow/BlackSeaGames/Sovereign/Saves":
+      tags:
+        - save
+
+# M
+"Might and Magic VI: The Mandate of Heaven":
+  installDir:
+    "(60)Might and Magic VI - The Mandate of Heaven/Files": {}
+  files:
+    "<base>/Saves":
+      tags:
+        - save
+  registry:
+    HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic® VI/1.0:
+      tags:
+        - config
+
+"Might and Magic VII: For Blood and Honor":
+  installDir:
+    "(59)Might and Magic VII - For Blood and Honor/Files": {}
+  files:
+    "<base>/Saves":
+      tags:
+        - save
+  registry:
+    HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic VII/1.0:
+      tags:
+        - config
+
+"Might and Magic VIII: Day of the Destroyer":
+  installDir:
+    "(58)Might and Magic VIII - Day of the Destroyer/Files": {}
+  files:
+    "<base>/Saves":
+      tags:
+        - save
+  registry:
+    HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic Day of the Destroyer/1.0:
+      tags:
+        - config
+
+# O
+OpenRCT2:
+  files:
+    "<winDocuments>/OpenRCT2/config.ini":
+      tags:
+        - config
+    "<winDocuments>/OpenRCT2/save":
+      tags:
+        - save
+
+# S
+Satisfactory:
+  files:
+    "<winLocalAppData>/FactoryGame/Saved/Config/Windows":
+      tags:
+        - config
+    "<winLocalAppData>/FactoryGame/Saved/SaveGames":
+      tags:
+        - save
+
+# T
+Total Annihilation:
+  installDir:
+    "(78)Total Annihilation/Files": {}
+  files:
+    "<base>/SAVEGAME":
+      tags:
+        - save
+  registry:
+    HKEY_CURRENT_USER/Software/Cavedog Entertainment/Total Annihilation:
+      tags:
+        - config
+
+# W
+Warlords Battlecry:
+  installDir:
+    "(73)Warlords Battlecry/Files": {}
+  files:
+    "<base>/Options.dat":
+      tags:
+        - config
+    "<base>/SavedGames":
+      tags:
+        - save
+
+Warlords Battlecry II:
+  files:
+    "<winDocuments>/Warlords Battlecry II":
+      tags:
+        - config
+        - save
+
+Warlords Battlecry III:
+  files:
+    "<winDocuments>/Warlords Battlecry III":
+      tags:
+        - config
+        - save
+  registry:
+    HKEY_CURRENT_USER/Software/Enlight/Warlords Battlecry III/Advanced Options:
+      tags:
+        - config
+    HKEY_CURRENT_USER/Software/Enlight/Warlords Battlecry III/Options:
+      tags:
+        - config
