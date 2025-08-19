@@ -140,10 +140,10 @@ Knights of Honor II – Sovereign:
   alias: "Knights of Honor II: Sovereign"
 "Knights of Honor II: Sovereign":
   files:
-    "<home>/AppData/LocalLow/BlackSeaGames/Sovereign":
+    "<winLocalAppDataLow>/BlackSeaGames/Sovereign":
       tags:
         - config
-    "<home>/AppData/LocalLow/BlackSeaGames/Sovereign/Saves":
+    "<winLocalAppDataLow>/BlackSeaGames/Sovereign/Saves":
       tags:
         - save
 
