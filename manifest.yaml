@@ -1,3 +1,13 @@
+# B
+
+Black & White:
+  installDir:
+    "(108)Black & White/Files": {}
+  files:
+    "<base>/Profiles":
+      tags:
+        - save
+
 # C
 Caesar III:
   installDir:
