@@ -227,6 +227,30 @@ Total Annihilation:
         - config
 
 # W
+Warcraft I Remastered:
+  files:
+    "<home>/Saved Games/WarcraftRemastered/*.sav":
+      tags:
+        - save
+    "<home>/Saved Games/WarcraftRemastered/GlobalSave.json":
+      tags:
+        - save
+    "<home>/Saved Games/WarcraftRemastered/PREFS.WAR":
+      tags:
+        - config
+
+Warcraft II Remastered:
+  files:
+    "<home>/Saved Games/Warcraft2Remastered/*.sav":
+      tags:
+        - save
+    "<home>/Saved Games/Warcraft2Remastered/GlobalSave.json":
+      tags:
+        - save
+    "<home>/Saved Games/Warcraft2Remastered/Warcraft2.ini":
+      tags:
+        - config
+
 Warlords Battlecry:
   installDir:
     "(73)Warlords Battlecry/Files": {}
