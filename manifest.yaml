@@ -156,6 +156,15 @@ Knights of Honor II – Sovereign:
       tags:
         - save
 
+# L
+"The Legend of Zelda: Breath of the Wild":
+  installDir:
+    "(113)The Legend of Zelda - Breath of the Wild\Files": {}
+  files:
+    "<base>/mlc01":
+      tags:
+        - save
+
 # M
 "Might and Magic VI: The Mandate of Heaven":
   installDir:
