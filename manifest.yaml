@@ -159,7 +159,7 @@ Knights of Honor II – Sovereign:
 # L
 "The Legend of Zelda: Breath of the Wild":
   installDir:
-    "(113)The Legend of Zelda - Breath of the Wild\Files": {}
+    "(113)The Legend of Zelda - Breath of the Wild/Files": {}
   files:
     "<base>/mlc01":
       tags:
