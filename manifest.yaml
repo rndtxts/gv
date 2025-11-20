@@ -28,6 +28,12 @@ Crusaders of Might and Magic:
         - config
 
 # D
+Demeo:
+  files:
+    "<winLocalAppDataLow>/BlackSeaGames/Resolution Games/Demeo/*.dmo":
+      tags:
+        - save
+
 Deus Ex:
   installDir:
     "(40)Deus Ex/Files": {}
