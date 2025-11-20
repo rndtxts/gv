@@ -28,7 +28,7 @@ Crusaders of Might and Magic:
         - config
 
 # D
-Demeo:
+"Demeo: PC Edition":
   files:
     "<winLocalAppDataLow>/BlackSeaGames/Resolution Games/Demeo/*.dmo":
       tags:
