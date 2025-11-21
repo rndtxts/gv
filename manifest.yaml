@@ -30,7 +30,7 @@ Crusaders of Might and Magic:
 # D
 "Demeo: PC Edition":
   files:
-    "<winLocalAppDataLow>/BlackSeaGames/Resolution Games/Demeo/*.dmo":
+    "<winLocalAppDataLow>/Resolution Games/Demeo/*.dmo":
       tags:
         - save
 
