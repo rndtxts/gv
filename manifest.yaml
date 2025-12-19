@@ -27,13 +27,6 @@ Crusaders of Might and Magic:
       tags:
         - config
 
-# D
-"Demeo: PC Edition":
-  files:
-    "<winLocalAppDataLow>/Resolution Games/Demeo/*.dmo":
-      tags:
-        - save
-
 Deus Ex:
   installDir:
     "(40)Deus Ex/Files": {}
